@@ -1,7 +1,6 @@
 {
   "deploy" : {
     "env": "production",
-    "rakegoals": ["bin/rake assets:precompile"],
-    "sidekiq": true
+    "rakegoals": ["bin/rake assets:precompile"]
   }
 }
