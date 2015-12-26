@@ -1,7 +1,9 @@
 Rails.application.routes.draw do
 
   get 'static_pages/key'
+  get '/secret' => "static_pages#secret"
   post 'static_pages/link'
+  post 'static_pages/surprise'
   get 'static_pages/link' => "static_pages#key"
 
   # The priority is based upon order of creation: first created -> highest priority.
