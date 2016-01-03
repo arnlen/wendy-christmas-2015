@@ -29,3 +29,11 @@
 - Traduction : "Patience et perseverance sont les cles du succes. Dimanche son fil est celebre."
 
 ---
+
+### Puzzle n°3 - 3/01/16:
+
+- Matrix: PATIENCBDFGHKLMOQRSUVWXYZ
+- `35 15 43 22 43 15 24 14. 41 32 24 14 44 35 41 14 42 45 14 15 44 13 34 12 11 34 45 44 23 15 34 34 15 ?`
+- Traduction : "Mercredi. Oh dis-moi qui est la plus belle ?"
+
+---
