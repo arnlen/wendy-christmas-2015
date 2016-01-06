@@ -37,3 +37,11 @@
 - Traduction : "Mercredi. Oh dis-moi qui est la plus belle ?"
 
 ---
+
+### Puzzle n°4 - 6/01/16:
+
+- Matrix: PERSVANCBDFGHIJKLMOQTUWXYZ
+- `25 34 42 21 22 23 33 12 12 22 42 21 34 23 33 12 55 41 12 14 11 43 42 11 34 12 13 14`
+- Traduction : "Dimanche. En mai chez les pompiers."
+
+---
