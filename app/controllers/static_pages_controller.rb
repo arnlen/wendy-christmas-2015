@@ -15,7 +15,7 @@ class StaticPagesController < ApplicationController
     answer = params[:answer]
 
     correct_question = "comment est votre blanquette ?"
-    correct_answer = "la blanquette est bonne"
+    correct_answer = "la blanquette est bonne."
 
     unless question.downcase == correct_question && answer.downcase == correct_answer
       redirect_to(secret_path)
