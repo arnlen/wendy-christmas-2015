@@ -11,7 +11,14 @@ class StaticPagesController < ApplicationController
   end
 
   def surprise
-    passphrase = params[:passphrase]
-    redirect_to(secret_path) unless passphrase.downcase == "la blanquette est bonne"
+    question = params[:question]
+    answer = params[:answer]
+
+    correct_question = "comment est votre blanquette ?"
+    correct_answer = "la blanquette est bonne"
+
+    unless question.downcase == correct_question && answer.downcase == correct_answer
+      redirect_to(secret_path)
+    end
   end
 end
